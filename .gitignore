@@ -1,0 +1,8 @@
+# Ignore configuration files that contain sensitive information
+spaceman.cfg
+
+# Ignore log files
+*.log
+
+# Ignore backup files
+*~
